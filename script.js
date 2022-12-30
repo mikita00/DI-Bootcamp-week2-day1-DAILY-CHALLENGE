@@ -1,5 +1,13 @@
 // Exercise 1
 // ----------------------------
+/****************************************************
+Correcteur: Yannick GOUGUIA
+
+Documentation a ajouter
+
+***************************************************/
+
+
 const fruits = ["Banana", "Apples", "Oranges", "Blueberries"];
 fruits.splice(0, 1); //supprimer Banana
 fruits.sort(); // mettre par ordre alphabetique
